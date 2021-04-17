@@ -1,4 +1,4 @@
-## MÉTODOS COMPOTUTACIONAIS: _Uma introdução aos métodos computacionais_  
+## MÉTODOS COMPUTACIONAIS: _Uma introdução aos métodos computacionais_  
 ### Repositório Educacional Aberto de Métodos Computacioanais (**REACOM**) - _Volume 1_
 
 > Autores:
