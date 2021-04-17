@@ -1,12 +1,10 @@
-Seja bem vindo a plaforma _online_ de Introdução aos Métodos Numéricos. Esse iniciativa trata-se de um projeto de ensino (SEI Nº 124578) do Grupo de Pesquisas e Estudos em Engenharia (**GPEE**) da Universidade Federal de Catalão (**UFCAT**). Tal projeto é desenvolvido pela seguinte equipe:
+Seja bem vindo a plaforma _online_ de Introdução aos Métodos Computacionais. Esse iniciativa trata-se de um projeto de ensino (SEI Nº 124578) do Grupo de Pesquisas e Estudos em Engenharia (**GPEE**) da Universidade Federal de Catalão (**UFCAT**). Tal projeto é desenvolvido pela seguinte equipe:
 
 > Coordenador(es):
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)
 
 > Colaborador(es):
 - [Prof. Marcos Napoleão Rabelo](http://lattes.cnpq.br/0067281135180613)
-
-> Discentes:
 
 # Sumário
 #### [APRESENTAÇÃO DO CURSO](https://github.com/metodoscomputacionais/IntroMetodosNumericos/blob/gh-pages/Aulas/Parte%201/PDF/0000-W%20M%20Pereira%20Junior%20e%20M%20N%20Rabelo_Apt%20-%20Aula%20Apresentação%20do%20curso_r00_270221.pdf)
