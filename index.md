@@ -1,12 +1,12 @@
 ## MÉTODOS COMPUTACIONAIS: _Uma introdução aos métodos computacionais_  
-### Repositório Educacional Aberto de Métodos Computacioanais (**REACOM**) - _Volume 1_
+### Repositório Educacional Aberto de Métodos Computacionais (**REACOM**) - _Volume 1_
 
 > Autores:
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 - [Prof. Marcos Napoleão Rabelo](http://lattes.cnpq.br/0067281135180613)  
   
   
-Seja bem vindo ao REA (Repositório Educacional Aberto) de Métodos Computacionais do Grupo de Pesquisa e Ensino em Engenharia (**GPEE**). Nosso objetivo é formentar o desenvolvimento de um material didático em Métodos Computacionais que seja de fácil acesso para professores, alunos, profissionais e demais interessados em aprender mais sobre este eixo temático das ciências exatas. Porém um REA só tem sucesso se você participar! Você pode nós apontar erros ou fazer sugestões. Caso deseje contribuir entre em contato pelo _e-mail: gpee.metodos.computacioanis@gmail.com_. Todas as sugestões são muito bem vindas.   
+Seja bem vindo ao REA (Repositório Educacional Aberto) de Métodos Computacionais do Grupo de Pesquisa e Ensino em Engenharia (**GPEE**). Nosso objetivo é formentar o desenvolvimento de um material didático em Métodos Computacionais que seja de fácil acesso para professores, alunos, profissionais e demais interessados em aprender mais sobre este eixo temático das ciências exatas. Porém um REA só tem sucesso se você participar! Você pode nós apontar erros ou fazer sugestões. Caso deseje contribuir entre em contato pelo _e-mail: gpee.metodos.computacionais@gmail.com_. Todas as sugestões são muito bem vindas.   
 
 Caso durante o uso do material verifiquem algum tipo de violação de direitos autorais por favor nos avise, iremos atender prontamente a solicitação.  
 
