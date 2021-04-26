@@ -14,10 +14,10 @@ No *REACOM* volume I você tem acesso irrestrito a todas as páginas elaboradas 
 
 É válido salientar também que nosso conteúdo está protegido por uma licença do tipo _Creative Commons_ do tipo CC-BY-NC-ND (Atribuição + NãoComercial + SemDerivações). Para consultar detalhes sobre as licenças _Creative Commons_ clique no [_link_](https://pt.wikipedia.org/wiki/Licenças_Creative_Commons).
   
-### Apresentação do curso: [Prof. Dr. Wanderlei Malaquias Pereira Junior](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_00000.html)  
-O curso de Introdção aos Métodos Computacionais é destinado para aqueles que desejam ingressar no mundo da computação científica. Aqui neste curso o aluno aprenderá a construir algoritmos destinados a solução numérica de problemas físico-matemáticos voltado as áreas de ciências. Neste _volume 1_ passaremos por métodos tradicionais de solução de equações e sistemas de equações até procedimento para solução numérica de eqauções diferenciais. Este curso é ministrado no formato presencial na Universidade Federal de Catalão pelos professores citados anteriormente.  
+### Apresentação do curso:
+O curso de Introdção aos Métodos Computacionais é destinado para aqueles que desejam ingressar no mundo da computação científica. Aqui o aluno aprenderá a construir algoritmos destinados a solução numérica de problemas físico-matemáticos voltado as áreas de ciências. Neste _volume 1_ passaremos por métodos tradicionais de solução de equações e sistemas de equações até procedimento para solução numérica de equações diferenciais. Este curso também é ministrado no formato presencial na Universidade Federal de Catalão (UFCAT) pelos professores citados anteriormente.  
 
-O requisitos básicos do curso são simples, basta conhecer alguma linguagem de programação destinada ao fim da programação científica (Aqui nos empregamos o Python 3). E o segundo requisito é ter muita vontade de aprender!!! Embarque nessa jornada.   
+O requisitos básicos do curso são simples, basta conhecer alguma linguagem de programação destinada ao fim da programação científica (Aqui empregamos o Python 3). E o segundo requisito é ter muita vontade de aprender!!! Embarque nessa jornada.   
 
 Para acessar o conteúdo basta clicar nos itens do sumário:    
 
