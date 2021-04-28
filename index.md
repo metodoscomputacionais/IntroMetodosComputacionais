@@ -28,6 +28,6 @@ Para acessar o conteúdo basta clicar nos itens do sumário:
 ##### [1.3 - ESTRUTURAS HOMOGÊNEAS](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_13000.html)
 #### 2 - SOLUÇÃO DE EQUAÇÕES UNIDIMENSIONAIS
 ##### [2.0 - MÉTODO DA BISSEÇÃO](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_20000.html)
-
+##### [2.1 - MÉTODO DE NEWTON-RAPHSON](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_21000.html)
 
 
