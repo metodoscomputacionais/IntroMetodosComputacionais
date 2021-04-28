@@ -26,7 +26,7 @@ Para acessar o conteúdo basta clicar nos itens do sumário:
 ##### [1.1 - EXPRESSÕES, OPERADORES E ORDEM DE PRECEDÊNCIA](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_11000.html)
 ##### [1.2 - ESTRUTURAS DE CONTROLE](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_12000.html)
 ##### [1.3 - ESTRUTURAS HOMOGÊNEAS](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_13000.html)
-#### 2 - SOLUÇÃO DE EQUAÇÕES
+#### 2 - SOLUÇÃO DE EQUAÇÕES UNIDIMENSIONAIS
 ##### [2.0 - MÉTODO DA BISSEÇÃO](https://metodoscomputacionais.github.io/IntroMetodosComputacionais/CAP_20000.html)
 
 
